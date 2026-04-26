@@ -1,6 +1,9 @@
 ---
 name: feature-blueprint
 description: Turns feature ideas and design docs into reviewed, phase-gated, implementation-ready scopes using Marcelo's methodology. Use when the user asks for feature scoping, design-doc readiness, critical review, prep-work planning, or Linear-ready ticket packaging.
+metadata:
+  author: "marcelo-cm"
+  version: "0.1.0"
 ---
 
 # Feature Blueprint
